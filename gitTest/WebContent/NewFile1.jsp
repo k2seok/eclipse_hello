@@ -7,8 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 </head>
 <body>
-<h1>하이용</h1>
-<a href="NewFile1.jsp">메롱</a>
-
+<h1>메롱</h1>
+<a href="NewFile.jsp">하이용</a>
 </body>
 </html>
